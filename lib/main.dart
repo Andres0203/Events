@@ -1,5 +1,4 @@
-import 'package:events/src/pages/splashpage.dart';
-import 'package:flutter/material.dart';
+import 'package:events/src/pages/importpages.dart';
 
 void main() => runApp(const MyApp());
 
